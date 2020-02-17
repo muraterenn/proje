@@ -1,0 +1,73 @@
+.arkaplan{
+    
+    background-image: url('login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.bg {
+    background-color: lime;
+}
+
+.login-container{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.register-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: auto;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+
+.card2{
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: auto;
+    background-color: rgba(0,0,0,0.5) !important;
+}
+
+
+.card-header h4{
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+}
+
+.login_btn{
+    color: black;
+    background-color: #ffc414 !important;
+    width: 120px;
+    
+}
+        
+.login_btn:hover{
+    color: black;
+    background-color: white !important;
+}
+
+.input-group-prepend span{
+    width: 50px;
+    padding-left: 34%;
+    background-color: #FFC312;
+    color: black;
+    border:0 !important;
+    }
+
+.links{
+    color: white;
+}
+   
+.links a{
+    margin-left: 4px;
+    font-weight: 500;   
+}
